@@ -1,4 +1,5 @@
 cloud k-svd is written in Python as a standalone application (ksvd_spark.py)
+This distributed version of k-svd is based on the paper "Cloud K-SVD: A Collaborative Dictionary Learning Algorithm for Big, Distributed Data" by Haroon Raja and Waheed U. Bajwa (http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7219480)
 
 #note on input files:
 The input folder contains the requisite input files to run
